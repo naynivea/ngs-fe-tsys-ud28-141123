@@ -1,0 +1,26 @@
+body{
+    background-color: #fff9ef;
+    font-family: sans-serif;
+}
+h1{
+    background-color: #ffdb8f;
+    font-size: 1.5em;
+}
+h2{
+    font-style: italic;
+    color: #6f9dbe;
+}
+h3{
+    font-size: 0.9em;
+    color: #6f9dbe;
+}
+p{
+    font-size: 0.9em;
+}
+.indent{
+   margin-left: 20px; 
+}
+.italic{
+    font-style: italic;
+    color: #6f9dbe;
+}

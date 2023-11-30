@@ -1,0 +1,12 @@
+body{
+    background-color: #f0f8ff;
+}
+div{
+    margin: 15px 15px 15px 15px;
+}
+h1,h2{
+    font-family: 'Courgette', cursive;
+}
+p, ol{
+    font-family: sans-serif;
+}
